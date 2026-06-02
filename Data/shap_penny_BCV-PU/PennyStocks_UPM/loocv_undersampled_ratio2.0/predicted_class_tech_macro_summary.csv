@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+PennyStocks:UPM,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.12133095220843729,0.027770564314164407,0.1862527287571537,PennyStocks,UPM

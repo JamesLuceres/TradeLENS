@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(2, 136, 209, 0.16), transparent 34%),
+    linear-gradient(135deg, #f6f9fc 0%, #eef3f8 100%);
+  color: #1f2937;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.dashboard-shell {
+  min-height: 100vh;
+}
+
+.dashboard-wrapper {
+  max-width: 1120px;
+}
+
+.dashboard-title {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3rem);
+  line-height: 1.05;
+}
+
+.dashboard-subtitle {
+  max-width: 720px;
+  color: #5f6b7a;
+  font-size: 1rem;
+}
+
+.panel-card {
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 20px 50px rgba(15, 23, 42, 0.08);
+}
+
+.result-card {
+  min-height: 360px;
+}
+
+.recommendation-card {
+  border-radius: 24px;
+}
+
+@media (max-width: 599px) {
+  .panel-card {
+    border-radius: 18px;
+  }
+
+  .result-card {
+    min-height: 280px;
+  }
+}

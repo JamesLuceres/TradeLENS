@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.007713833906794745,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.03404202560392149,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.011196138803502434,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.013292541700061522,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.008769066604319278,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.010404564950022175,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.01939911614068478,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.03147325152628042,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.0251805280969802,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.01036927899600869,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.010990831021390477,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.004838570692029407,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.01699828670172337,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.00434218700519807,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.010281026967102206,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.013052753697993465,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.006144416502648369,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.007209255957898222,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.014518527171144342,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.015174044215054888,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.002122905061994516,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.011826123632417874,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.0054612360534611075,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.00556463626553068,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.004745623608600909,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.003929056627194427,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.005199345384999105,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.008268351457495554,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.01003051375120208,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.0033204809724037424,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.00230901525762647,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.0019266712054172783,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.004520158673603873,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.0023535204777556376,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.0037321969137998684,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.006860419924953476,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.0042710403548990436,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.003979842120047579,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.014243076766315426,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.017063917354025765,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.006417727990451568,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.03064897438374828,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.01089184369182476,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.011593033427802766,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.008602681896190918,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.009997864611173097,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.017531013575035104,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.02799269988849119,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.02395533903214527,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.01001661129213062,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.010825059592672232,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.004189575145569506,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.015149682219234817,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.00390688094155621,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.009180783220535888,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.011954192256196166,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.0065996665644070165,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.006740778611833777,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.012308090280951662,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.017478190448182433,Blue chip stocks,AC

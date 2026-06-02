@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.000937691601774304,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.012143986552698606,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.0016194035222162027,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.0015288220158254262,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.0012374465774814777,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.0009469549603258543,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.0012821043674544799,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.002192418903445628,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.0014321084994864464,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.001197900086150412,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.0008819367386774955,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.00036418296797648966,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.0028374927891113085,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.0010786622107315403,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.0009117737084558544,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.001077251429840089,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.0009088290398460685,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.002056591926125293,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.002879674799341956,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.0029033287479569483,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.00028028867583983045,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.0027676866669482086,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.0005002519920154214,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.0005425081030392676,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.00043671597296732765,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.0003441150454752417,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.0004581576584280356,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.0005686343940701021,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.00038115172397462877,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.000268350085744089,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.00017057166497501443,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.00011113505589712246,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.0004955133589805883,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.00023764796412578445,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.00028019535140288103,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.00035208202582634126,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.0003907960288056245,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.0007646598153781879,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.0011159863168359152,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.001303183138045938,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.0008322026849671716,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.011894123443216813,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.0019358599566997724,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.0012936567100075539,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.0011586547256413836,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.0008399039201549385,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.001152488141016761,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.002017683255304395,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.001274946948093998,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.0010525635483531917,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.0007505251860956718,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.0002925134006750341,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.0019203704566240272,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.000638186455842762,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.0007356431358022064,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.000981315449932936,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.000820924682546149,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.0017702827143619968,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.0023696516191159846,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.002042282293335802,Blue chip stocks,JFC

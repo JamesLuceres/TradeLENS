@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.09769476600539306,0.028969854332937216,0.22871307122349285,PennyStocks,PHR

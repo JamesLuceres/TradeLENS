@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.09696729232366935,0.047209724744775056,0.3274427901526318,Blue chip stocks,AC

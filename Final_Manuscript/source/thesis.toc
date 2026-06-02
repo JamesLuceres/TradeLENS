@@ -1,0 +1,59 @@
+\contentsline {chapter}{Acknowledgements}{v}{chapter*.1}%
+\contentsline {chapter}{Abstract}{vii}{chapter*.2}%
+\contentsline {chapter}{Table of Contents}{ix}{chapter*.3}%
+\contentsline {chapter}{List of Tables}{x}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{xii}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background of the Study}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Basic Definitions and Notations}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Problem Statement}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Aim of the Work}{6}{section.1.4}%
+\contentsline {subsection}{General Objective}{6}{section*.7}%
+\contentsline {subsection}{Specific Objectives}{6}{section*.7}%
+\contentsline {subsection}{Scope and Limitation}{7}{Item.4}%
+\contentsline {subsection}{Significance of the Study}{8}{Item.4}%
+\contentsline {chapter}{\numberline {2}Review of Related Literature}{10}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Methodology}{14}{chapter.3}%
+\contentsline {subsection}{Data Gathering}{15}{figure.caption.8}%
+\contentsline {subsection}{Data Processing}{15}{section*.9}%
+\contentsline {paragraph}{Normalization and 8‑bit quantization.}{17}{section*.9}%
+\contentsline {subsection}{Image Creation}{19}{algorithm.1}%
+\contentsline {paragraph}{Combined image construction.}{20}{algorithm.1}%
+\contentsline {paragraph}{Technical-only image.}{22}{Item.7}%
+\contentsline {subsection}{Model Training}{25}{figure.caption.11}%
+\contentsline {paragraph}{Architecture}{25}{figure.caption.12}%
+\contentsline {paragraph}{Training procedure}{26}{figure.caption.12}%
+\contentsline {paragraph}{Decision rule}{27}{figure.caption.12}%
+\contentsline {subsection}{Model Evaluation}{28}{algorithm.2}%
+\contentsline {paragraph}{Classification metrics}{28}{algorithm.2}%
+\contentsline {paragraph}{Trading metrics}{28}{algorithm.2}%
+\contentsline {paragraph}{Output}{28}{algorithm.2}%
+\contentsline {chapter}{\numberline {4}Results and Discussion}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Performance Evaluation Metrics}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Implementation Details and Training Protocol}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Experimental Setups}{30}{section.4.3}%
+\contentsline {subsection}{Experiment 1: Comparing CNN--TIC and CNN--MIC with Different Validation Schemes}{31}{section*.13}%
+\contentsline {subsection}{Experiment 2: Benchmarking Test Classification and Financial Performance}{31}{section*.13}%
+\contentsline {subsection}{Experiment 3: SHAP-Based Interpretation of CNN--MIC Across Validation Schemes}{31}{section*.13}%
+\contentsline {section}{\numberline {4.4}Results and Discussion}{32}{section.4.4}%
+\contentsline {subsection}{Experiment 1: Comparison of Validation Performance Across Validation Schemes}{32}{section*.14}%
+\contentsline {subsection}{Experiment 2: Comparison of Test Classification and Financial Performance}{37}{figure.4.3}%
+\contentsline {paragraph}{True-label trading performance.}{46}{figure.4.9}%
+\contentsline {paragraph}{Volatile-period evaluation from 2021 to 2022.}{47}{table.caption.15}%
+\contentsline {subsection}{Experiment 3: SHAP-Based Interpretation of CNN--MIC Across Validation Schemes}{49}{table.caption.16}%
+\contentsline {chapter}{\numberline {5}Conclusions and Recommendations}{52}{chapter.5}%
+\contentsline {chapter}{\numberline {A}Appendix}{54}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Dataset}{54}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Experiment 1 Tables}{54}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Experiment 2 Tables}{56}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Experiment 3 Class Importance}{59}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Confusion Matrices}{60}{section.A.5}%
+\contentsline {subsection}{Ayala Corporation}{60}{section*.18}%
+\contentsline {subsection}{Jollibee Foods Corporation}{61}{table.A.11}%
+\contentsline {subsection}{SM Investments Corporation}{62}{table.A.12}%
+\contentsline {subsection}{Araneta Properties}{62}{table.A.13}%
+\contentsline {subsection}{PH Resorts Group}{63}{table.A.14}%
+\contentsline {subsection}{United Paragon Mining Corporation}{64}{table.A.15}%
+\contentsline {subsection}{Bitcoin}{65}{table.A.16}%
+\contentsline {subsection}{Litecoin}{65}{table.A.17}%
+\contentsline {subsection}{XRP}{66}{table.A.18}%

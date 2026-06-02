@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background of the Study}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Related Works}{3}{section.2}%
+\contentsline {section}{\numberline {3}Statement of the Problem}{5}{section.3}%
+\contentsline {section}{\numberline {4}Objectives of the Study}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}This study aims to}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The specific objectives of this study are as follows:}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Scope and Limitation}{6}{section.5}%
+\contentsline {section}{\numberline {6}Significance of the Study}{7}{section.6}%
+\contentsline {section}{\numberline {7}Proposed Framework}{7}{section.7}%
+\contentsline {section}{\numberline {8}Methodology}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Data Gathering}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Data Processing}{8}{subsection.8.2}%
+\contentsline {paragraph}{Normalization and 8‑bit quantization.}{9}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Image Creation}{10}{subsection.8.3}%
+\contentsline {paragraph}{Combined image construction.}{11}{subsection.8.3}%
+\contentsline {paragraph}{Technical only image.}{11}{Item.7}%
+\contentsline {subsection}{\numberline {8.4}Model Training}{13}{subsection.8.4}%
+\contentsline {paragraph}{Architecture}{13}{figure.caption.5}%
+\contentsline {paragraph}{Training procedure}{14}{figure.caption.5}%
+\contentsline {paragraph}{Decision rule}{14}{figure.caption.5}%
+\contentsline {subsection}{\numberline {8.5}Model Evaluation}{15}{subsection.8.5}%
+\contentsline {paragraph}{Classification metrics}{15}{subsection.8.5}%
+\contentsline {paragraph}{Trading metrics}{16}{subsection.8.5}%
+\contentsline {paragraph}{Output}{16}{subsection.8.5}%
+\contentsline {section}{\numberline {9}Initial Experiments and Results}{16}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Cross validation on the training period (2012 to 2020)}{16}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Test set classification results (2021 to 2025)}{17}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Financial evaluation on the test period}{18}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Schedule of Activities}{19}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Year 1}{19}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Year 2}{20}{subsection.10.2}%

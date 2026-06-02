@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+PennyStocks:UPM,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.2933969530335395,0.05605458809482115,0.16040732833463497,PennyStocks,UPM
+PennyStocks:UPM,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.07881084143184112,0.022599586437563633,0.22285268795697355,PennyStocks,UPM
+PennyStocks:UPM,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.3446087118579332,0.0706027521413421,0.170040469165527,PennyStocks,UPM

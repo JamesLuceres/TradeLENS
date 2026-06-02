@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.10076553550832841,0.05501454372679468,0.3531551915810733,Crypto,LTC

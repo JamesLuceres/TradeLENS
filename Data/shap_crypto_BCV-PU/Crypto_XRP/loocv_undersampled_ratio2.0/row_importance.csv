@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.011817408607723791,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.03769599306241389,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.006702097883808165,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.0062888917923328335,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.007126389959911704,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.006265134616741079,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.0186335632661212,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.04270002760942816,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.026084222102858802,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.0015477659256174549,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.002787993448771431,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.0011483246767835453,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.012437618087324156,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.012240581995333743,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.010632762316699882,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.01689022703532828,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.018563407228257348,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.010194721140742331,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.026589596600992988,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.017944050215592144,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.0039430698890896565,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.016527257589782494,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.0036734010059171853,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.004346109229936416,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.004448325068059375,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.003977194907083686,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.007879681100243941,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.01735903090240754,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.01996128546591535,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.0014459537090851882,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.002820501211688793,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.0011953844375375412,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.010097932436356132,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.013109035270990716,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.011099969568765572,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.019263204792637226,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.015213495722417748,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.007738814496869963,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.020734409470369426,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.015073055857201326,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.012123589261586859,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.03372244036851044,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.006668039998010043,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.007108925645933938,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.006080951922730265,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.005943387572897337,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.018136120879917783,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.03814128540982437,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.02212743347216019,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.0014564374772919565,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.0030635464414217493,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.001304448376398568,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.011465944686228795,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.012439095637255378,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.010125448509143098,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.016680027385298217,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.017527650841002468,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.008346229517737811,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.023784482951778044,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.015856144543486154,Crypto,XRP

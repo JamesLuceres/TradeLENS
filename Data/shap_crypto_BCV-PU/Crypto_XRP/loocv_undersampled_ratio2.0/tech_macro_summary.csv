@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.20410877535186983,0.09018200222091309,0.30643842448854725,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.12188413179285962,0.07802298033949569,0.3902961705926597,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.1899070956593108,0.0821945352393027,0.30207292388456436,Crypto,XRP

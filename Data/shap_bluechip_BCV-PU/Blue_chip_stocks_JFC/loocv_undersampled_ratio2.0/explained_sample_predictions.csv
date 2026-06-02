@@ -1,0 +1,21 @@
+asset,scheme,scheme_id,sample_index,date,true_class_idx,true_class_name,pred_class_idx,pred_class_name,correct,p_sell,p_hold,p_buy,group,symbol
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2607,2023-01-25,1,Hold,1,Hold,True,0.17587673664093018,0.4424879252910614,0.38163530826568604,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2623,2023-02-16,1,Hold,1,Hold,True,0.17694619297981262,0.4448450803756714,0.378208726644516,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2628,2023-02-23,1,Hold,1,Hold,True,0.17014659941196442,0.4482041299343109,0.3816492557525635,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2631,2023-02-28,1,Hold,1,Hold,True,0.24890996515750885,0.43994221091270447,0.3111477792263031,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2636,2023-03-07,1,Hold,1,Hold,True,0.14569129049777985,0.44075241684913635,0.4135562777519226,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2646,2023-03-21,1,Hold,1,Hold,True,0.290047287940979,0.4290787875652313,0.2808739244937897,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2663,2023-04-18,1,Hold,1,Hold,True,0.21770961582660675,0.4394022822380066,0.34288814663887024,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2664,2023-04-19,1,Hold,1,Hold,True,0.2828567326068878,0.42660239338874817,0.29054081439971924,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2698,2023-06-08,1,Hold,1,Hold,True,0.2943040430545807,0.4219737648963928,0.2837221920490265,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2738,2023-08-07,1,Hold,1,Hold,True,0.16732414066791534,0.4184954762458801,0.41418036818504333,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2830,2023-12-22,1,Hold,1,Hold,True,0.3673146963119507,0.40559130907058716,0.22709405422210693,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2852,2024-01-26,0,Sell,0,Sell,True,0.4355980455875397,0.3830913007259369,0.18131057918071747,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2880,2024-03-07,1,Hold,1,Hold,True,0.1640019416809082,0.41893789172172546,0.41706016659736633,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2972,2024-07-25,2,Buy,2,Buy,True,0.12525805830955505,0.4203782081604004,0.45436379313468933,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,2989,2024-08-19,1,Hold,1,Hold,True,0.3544435501098633,0.41194772720336914,0.233608677983284,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,3021,2024-10-04,1,Hold,1,Hold,True,0.2918752431869507,0.4243682622909546,0.28375646471977234,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,3129,2025-03-14,1,Hold,1,Hold,True,0.3123418390750885,0.41196149587631226,0.275696724653244,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,3177,2025-05-29,1,Hold,1,Hold,True,0.18377730250358582,0.4285658895969391,0.3876568377017975,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,3182,2025-06-05,1,Hold,1,Hold,True,0.2505812346935272,0.4279981851577759,0.3214205503463745,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,3189,2025-06-18,1,Hold,1,Hold,True,0.22643226385116577,0.4406045377254486,0.3329632580280304,Blue chip stocks,JFC

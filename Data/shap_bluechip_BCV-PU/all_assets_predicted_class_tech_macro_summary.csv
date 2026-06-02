@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.09696729232366935,0.047209724744775056,0.3274427901526318,Blue chip stocks,AC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.01098530514795052,0.004341317697279088,0.2832533781980756,Blue chip stocks,JFC
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.09194580155688839,0.02842746992811839,0.23616098139909078,Blue chip stocks,SMI

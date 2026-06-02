@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.09291213325008288,0.0322346611786827,0.25757480505847785,PennyStocks,ARA

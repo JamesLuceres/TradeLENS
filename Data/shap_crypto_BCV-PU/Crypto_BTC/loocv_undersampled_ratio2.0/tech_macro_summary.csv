@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.38692583058990865,0.07564946672971815,0.16353978945280004,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.22791040300614893,0.04849778706307233,0.17545712755807624,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.4446593876005386,0.07343466210787483,0.14174002220099674,Crypto,BTC

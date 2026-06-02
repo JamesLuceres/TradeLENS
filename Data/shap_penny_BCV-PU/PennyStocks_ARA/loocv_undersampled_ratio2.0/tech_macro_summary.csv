@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.24016705992820148,0.06410216370773952,0.2106758052678964,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.07251485768867724,0.029744499291938384,0.29087313053979774,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.25395362397815735,0.05491351420453384,0.17779008323006884,PennyStocks,ARA

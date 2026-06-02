@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.009329923783777758,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.03341584484798659,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.005804388184242271,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.005716535415741646,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.0047556314735697925,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.004266601757483386,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.00731030511345125,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.030851397921609312,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.016913031452245948,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.0015785440377123906,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.0030012098603526736,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.0016723597581415107,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.005885981741243994,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.006469781457153659,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.009491670251500182,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.010624141020289243,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.014217210163842536,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.013064054115284307,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.014358288544826792,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.014831989427939332,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.004543930445952924,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.017612364677843287,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.004077541657525217,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.0035921120842021996,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.003999202941079147,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.002753979455969784,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.005195059991300468,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.013595579759798967,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.010454488217565085,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.000888782603814775,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.0018546174193807019,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.0015411379829197358,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.006826973629290477,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.0075754209989213435,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.008494587561218622,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.009235406427478665,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.011869980224345796,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.009887988537848285,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.01174209242125471,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.011433751967083478,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.011816572120708316,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.03684373706684255,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.005554873102005331,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.005335762574095496,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.00460277131514431,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.005652444489207938,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.009491968555485075,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.05012528317789929,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.026782436365433572,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.002673477046871255,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.004694209865738231,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.0033839020270534084,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.011978163008766389,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.014103049757329705,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.015441410581129278,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.014926741597168983,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.017631759869982486,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.014492916044664527,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.013487922309366313,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.012361930894121543,Crypto,LTC

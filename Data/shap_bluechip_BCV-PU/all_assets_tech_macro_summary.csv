@@ -1,0 +1,10 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.21929124871601932,0.05609899754473929,0.20370727833120447,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.07530983534350312,0.04641829652024129,0.38132760118424647,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.20089977090856226,0.055080918161571055,0.21517606801378694,Blue chip stocks,AC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.030592885501811523,0.009825675943110354,0.2430981111611244,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.007842923713883542,0.003926707324892007,0.33363045213187253,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.02778932196849568,0.007984456759292869,0.22319299339464688,Blue chip stocks,JFC
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.14494779093725121,0.03720843064232866,0.20426659226719385,Blue chip stocks,SMI
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.0652569919203107,0.027491197560283925,0.29640683785030447,Blue chip stocks,SMI
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.1684877093223215,0.033774108686720296,0.16698212751756478,Blue chip stocks,SMI

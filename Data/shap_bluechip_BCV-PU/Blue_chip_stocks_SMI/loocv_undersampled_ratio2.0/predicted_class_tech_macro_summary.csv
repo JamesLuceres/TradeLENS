@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.09194580155688839,0.02842746992811839,0.23616098139909078,Blue chip stocks,SMI

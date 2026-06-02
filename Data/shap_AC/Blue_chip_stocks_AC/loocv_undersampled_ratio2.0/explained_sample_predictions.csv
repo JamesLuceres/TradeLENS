@@ -1,0 +1,21 @@
+asset,scheme,scheme_id,sample_index,date,true_class_idx,true_class_name,pred_class_idx,pred_class_name,correct,p_sell,p_hold,p_buy,group,symbol
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2697,2023-06-07,1,Hold,1,Hold,True,0.2721042335033417,0.6965346336364746,0.031361158937215805,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2714,2023-07-04,1,Hold,1,Hold,True,0.4573572874069214,0.5251293778419495,0.01751338690519333,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2745,2023-08-16,1,Hold,1,Hold,True,0.02224317565560341,0.7775249481201172,0.20023179054260254,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2772,2023-09-26,1,Hold,1,Hold,True,0.19824916124343872,0.7701306939125061,0.03162013366818428,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2783,2023-10-11,1,Hold,1,Hold,True,0.0773419514298439,0.8663230538368225,0.05633501335978508,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2784,2023-10-12,1,Hold,1,Hold,True,0.09725166857242584,0.8566124439239502,0.04613592475652695,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2826,2023-12-18,1,Hold,1,Hold,True,0.38375234603881836,0.6019288897514343,0.014318718574941158,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2833,2023-12-29,2,Buy,2,Buy,True,0.006656021345406771,0.3250401020050049,0.6683038473129272,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2846,2024-01-18,1,Hold,1,Hold,True,0.07524716109037399,0.8400223255157471,0.08473055064678192,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2849,2024-01-23,1,Hold,1,Hold,True,0.2702794075012207,0.6966478824615479,0.03307279571890831,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2867,2024-02-19,2,Buy,2,Buy,True,0.0028432917315512896,0.405429482460022,0.5917271971702576,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2922,2024-05-13,1,Hold,1,Hold,True,0.01403985358774662,0.49376121163368225,0.4921989142894745,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2928,2024-05-21,1,Hold,1,Hold,True,0.2671232521533966,0.7067071795463562,0.02616957016289234,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2941,2024-06-07,1,Hold,1,Hold,True,0.24086856842041016,0.7300156354904175,0.02911587432026863,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,2955,2024-07-01,1,Hold,1,Hold,True,0.04986713081598282,0.871350109577179,0.07878269255161285,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,3001,2024-09-06,1,Hold,1,Hold,True,0.024562682956457138,0.8744094967842102,0.10102786868810654,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,3019,2024-10-02,1,Hold,1,Hold,True,0.013174889609217644,0.7108872532844543,0.27593791484832764,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,3091,2025-01-20,1,Hold,1,Hold,True,0.11223892122507095,0.8295158743858337,0.05824517086148262,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,3178,2025-05-30,1,Hold,1,Hold,True,0.10218239575624466,0.8649583458900452,0.03285929188132286,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,3185,2025-06-11,1,Hold,1,Hold,True,0.010451741516590118,0.683497428894043,0.30605077743530273,Blue chip stocks,AC

@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.030592885501811523,0.009825675943110354,0.2430981111611244,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.007842923713883542,0.003926707324892007,0.33363045213187253,Blue chip stocks,JFC
+Blue chip stocks:JFC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.02778932196849568,0.007984456759292869,0.22319299339464688,Blue chip stocks,JFC

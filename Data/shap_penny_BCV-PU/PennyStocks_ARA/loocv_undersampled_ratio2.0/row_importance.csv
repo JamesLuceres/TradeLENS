@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.014283455657274544,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.03938282345210609,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.01645213329026774,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.014751090034640127,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.011409233670474778,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.01004995808817057,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.023186594131511813,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.02568606513616033,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.02156152776442241,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.0044013674234679445,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.0051911696963816215,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.004759652635235624,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.030275155382241785,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.010809812556174164,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.007967021009671952,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.01299446451455651,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.0060756041110849425,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.007773019472371061,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.022574935790944436,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.014684139818782572,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.003604919328010965,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.011218649793040639,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.005668645553045052,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.004694816828650801,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.0032826513028800268,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.003468814499647124,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.0076191963873964135,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.007450696505238452,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.006272479161702904,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.0015733621792821853,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.0017653990546205023,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.0016012708823288338,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.0076170444187596345,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.00320153786663468,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.003475373927439023,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.006276367556474724,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.0029193828384768495,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.003460977641402678,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.00950131179051823,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.007586459465065901,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.016985750164258205,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.04632430767131428,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.01993890119043499,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.016874016320361986,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.01060640220277492,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.010055907419755386,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.023570749760754094,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.027019785950069493,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.021782116886206494,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.004994127087600191,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.006094596306227232,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.005279419793941998,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.026384510423013124,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.010012399161360007,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.008030633640084942,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.010411574556219421,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.0049924208519655615,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.006015350994075561,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.02102380182921479,PennyStocks,ARA
+PennyStocks:ARA,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.012470365973058504,PennyStocks,ARA

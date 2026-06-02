@@ -1,0 +1,1201 @@
+asset,scheme,scheme_id,sample_index,date,pred_class_name,true_class_name,correct,row_index,row_name,row_type,mean_abs_shap,group,symbol
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,6,TripleEMA,technical,0.0323204790300224,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,8,CMO,technical,0.02579428351009483,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,17,Inflation Rate,macro,0.017376289376989006,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.01592566082108533,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,15,Oil,macro,0.015168470503704156,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,5,HMA,technical,0.012787023824057542,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012537932267878204,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,3,EMA,technical,0.011314291169401258,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,1,WilliamsR,technical,0.009221576871641445,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,12,CMFI,technical,0.008013443122035824,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,4,WMA,technical,0.007722459854267072,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,14,PSI,technical,0.007370228064246476,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,2,SMA,technical,0.0071084080220316535,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,16,Gold,macro,0.007086571103718598,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,13,DMI,technical,0.006754803030344192,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,7,CCI,technical,0.00600703748059459,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,0,RSI,technical,0.004401912696630461,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,9,MACD,technical,0.0017680901769381308,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,10,PPO,technical,0.001429280569209368,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4005,2023-04-30,Hold,Hold,True,11,ROC,technical,0.0011286078805824219,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,8,CMO,technical,0.02831686504650861,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,7,CCI,technical,0.026107743207830936,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,1,WilliamsR,technical,0.018730017615598626,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,6,TripleEMA,technical,0.017815379799867515,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,15,Oil,macro,0.015843166616468805,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,13,DMI,technical,0.014183126931311563,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.013644507243589033,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013516875554341824,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,17,Inflation Rate,macro,0.013183469411160331,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,14,PSI,technical,0.01287223700201139,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,0,RSI,technical,0.009434363953187131,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,12,CMFI,technical,0.008684731434914283,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,2,SMA,technical,0.007329548295820132,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,3,EMA,technical,0.007240306413041253,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,16,Gold,macro,0.0069782511243829505,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,5,HMA,technical,0.006905922430451028,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,4,WMA,technical,0.005498865636764094,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,10,PPO,technical,0.003021220789378276,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,9,MACD,technical,0.002892628714835155,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4026,2023-05-21,Hold,Hold,True,11,ROC,technical,0.0013613784022709296,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,6,TripleEMA,technical,0.03534522372065112,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,8,CMO,technical,0.028161459683906286,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,7,CCI,technical,0.015603290875151287,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.014581347367493436,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,5,HMA,technical,0.01380097790097352,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,17,Inflation Rate,macro,0.013227569684386254,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011561011633602902,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,1,WilliamsR,technical,0.010914536565542221,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,13,DMI,technical,0.01067065026727505,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,15,Oil,macro,0.010542611673008651,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,3,EMA,technical,0.009762101325031835,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,4,WMA,technical,0.009685221477411687,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,2,SMA,technical,0.008483270075521432,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,9,MACD,technical,0.007545818641665392,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,0,RSI,technical,0.005913847836200148,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,14,PSI,technical,0.005331705052776669,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,12,CMFI,technical,0.00518998480256414,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,16,Gold,macro,0.0039171603275462985,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,10,PPO,technical,0.001607149596020463,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4061,2023-06-25,Hold,Hold,True,11,ROC,technical,0.0014517338408040815,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,7,CCI,technical,0.03576322951121256,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,8,CMO,technical,0.026372438212274574,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,1,WilliamsR,technical,0.02366429246030748,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,6,TripleEMA,technical,0.019323483167681843,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,12,CMFI,technical,0.014460053406946827,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012496703024226008,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,5,HMA,technical,0.011329653147186036,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,15,Oil,macro,0.010790206881938501,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,0,RSI,technical,0.010279933623678517,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.008989456074777991,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,13,DMI,technical,0.008923433741802,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,2,SMA,technical,0.008536852500401437,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,4,WMA,technical,0.008178447629325092,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,3,EMA,technical,0.007423937434941763,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,17,Inflation Rate,macro,0.005795788971590809,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,14,PSI,technical,0.0048612875951221214,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,16,Gold,macro,0.003854839318228187,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,10,PPO,technical,0.0023145517108787315,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,9,MACD,technical,0.001730967933235661,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4096,2023-07-30,Hold,Hold,True,11,ROC,technical,0.001087481201693663,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,1,WilliamsR,technical,0.029700568551197647,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,7,CCI,technical,0.02706745865289122,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,8,CMO,technical,0.02692259962204844,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,15,Oil,macro,0.016638186825730372,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,6,TripleEMA,technical,0.016308853699592875,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.014955696251126938,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,12,CMFI,technical,0.013064189083524979,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011954694241285323,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,14,PSI,technical,0.011571970317163505,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,13,DMI,technical,0.010278314031893387,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,0,RSI,technical,0.009849236631998793,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,17,Inflation Rate,macro,0.009239985834574327,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,3,EMA,technical,0.00898697494994849,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,2,SMA,technical,0.008502476866124199,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,5,HMA,technical,0.008095805220364127,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,4,WMA,technical,0.006341383940161904,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,16,Gold,macro,0.003950114009785466,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,10,PPO,technical,0.0016467889742671105,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,9,MACD,technical,0.0014328325234600925,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4113,2023-08-16,Hold,Hold,True,11,ROC,technical,0.0009829653798078652,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,8,CMO,technical,0.04218314288300462,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,7,CCI,technical,0.038799408148042856,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,1,WilliamsR,technical,0.019815134216332807,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,12,CMFI,technical,0.01731071665417403,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,6,TripleEMA,technical,0.011937012447742746,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.011486482483451254,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,0,RSI,technical,0.010807221924187616,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,14,PSI,technical,0.010110707799321971,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,2,SMA,technical,0.009654343297006563,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009261559281731025,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,15,Oil,macro,0.007971294273738749,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,17,Inflation Rate,macro,0.00758603306603618,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,5,HMA,technical,0.007432661519851535,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,13,DMI,technical,0.0073743723929510455,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,4,WMA,technical,0.006577630632091313,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,3,EMA,technical,0.0058712304657092314,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,9,MACD,technical,0.0038244002593273763,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,16,Gold,macro,0.003586852577791433,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,10,PPO,technical,0.003543119962705532,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4115,2023-08-18,Hold,Hold,True,11,ROC,technical,0.0014773371538467472,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,6,TripleEMA,technical,0.03418676679721102,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,7,CCI,technical,0.02623592385025404,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,15,Oil,macro,0.02221741481916979,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,13,DMI,technical,0.017584580520633608,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,8,CMO,technical,0.016297942944220267,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01618509969266597,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,12,CMFI,technical,0.01500422412646003,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,17,Inflation Rate,macro,0.01475159767724108,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,5,HMA,technical,0.014672513805271592,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,1,WilliamsR,technical,0.011336147953988985,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011022387747652828,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,3,EMA,technical,0.007976774059352465,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,2,SMA,technical,0.007612135639647022,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,4,WMA,technical,0.006251659581903368,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,14,PSI,technical,0.004528477102576289,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,16,Gold,macro,0.0043303742524585685,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,0,RSI,technical,0.004116273077670485,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,10,PPO,technical,0.0016408531570050399,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,9,MACD,technical,0.0012249689561940613,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4160,2023-10-02,Hold,Hold,True,11,ROC,technical,0.0008961128700320842,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,6,TripleEMA,technical,0.026740516326390205,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,7,CCI,technical,0.017706346721388398,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,15,Oil,macro,0.015690940440981647,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,8,CMO,technical,0.014517950301524252,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,5,HMA,technical,0.01354314354248345,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,1,WilliamsR,technical,0.013513102621072904,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012960378016578034,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,12,CMFI,technical,0.011654419900332868,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,13,DMI,technical,0.011398729163920507,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010173085704445839,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,17,Inflation Rate,macro,0.009991517941307393,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,14,PSI,technical,0.009747785690706223,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,3,EMA,technical,0.008686791360378265,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,4,WMA,technical,0.006788358127232641,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,2,SMA,technical,0.005014384219430212,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,0,RSI,technical,0.004402593065697147,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,16,Gold,macro,0.0038797744578914716,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,9,MACD,technical,0.0015205308391159633,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,10,PPO,technical,0.0014986414802478976,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4175,2023-10-17,Hold,Hold,True,11,ROC,technical,0.0011695976347255055,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,6,TripleEMA,technical,0.039963175763841716,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,8,CMO,technical,0.02577145539689809,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,13,DMI,technical,0.025125145202036948,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,7,CCI,technical,0.02270655143656768,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,5,HMA,technical,0.020602259249426425,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.016930931014940143,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,3,EMA,technical,0.015100299415644258,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,0,RSI,technical,0.014572702757504885,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,15,Oil,macro,0.01268187800887972,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,9,MACD,technical,0.012551287544192746,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012076731210981961,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,1,WilliamsR,technical,0.011843633314128965,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,2,SMA,technical,0.011288023974339012,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,14,PSI,technical,0.011094206316920463,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,4,WMA,technical,0.009222715097712353,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,10,PPO,technical,0.003893876078836911,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,17,Inflation Rate,macro,0.003864621149841696,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,12,CMFI,technical,0.0037525262383496737,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,16,Gold,macro,0.0027368008937628473,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4199,2023-11-10,Hold,Hold,True,11,ROC,technical,0.0010823196498677135,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,6,TripleEMA,technical,0.042564665115787645,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,13,DMI,technical,0.024915588682051747,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,8,CMO,technical,0.02423690726282075,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.0192409118055366,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,5,HMA,technical,0.01888779578430331,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,3,EMA,technical,0.01628403444774449,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,9,MACD,technical,0.01326306382252369,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,7,CCI,technical,0.012473246082663536,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,4,WMA,technical,0.01232690389151685,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,1,WilliamsR,technical,0.011834843818360242,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,0,RSI,technical,0.01155604362138547,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011506095586810261,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,15,Oil,macro,0.010620418962207622,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,2,SMA,technical,0.01019837537605781,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,14,PSI,technical,0.007878519164660248,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,12,CMFI,technical,0.005516989040188491,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,17,Inflation Rate,macro,0.003461654371858458,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,16,Gold,macro,0.003192371294426266,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,10,PPO,technical,0.0031808814441319556,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4200,2023-11-11,Hold,Hold,True,11,ROC,technical,0.0011082307530159597,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,6,TripleEMA,technical,0.054497227421961725,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,7,CCI,technical,0.04666706779971719,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,8,CMO,technical,0.03532925187901128,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,5,HMA,technical,0.02632941102492623,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,1,WilliamsR,technical,0.01915823231684044,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,0,RSI,technical,0.016542361573374364,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,12,CMFI,technical,0.015751882393306004,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.015658024651929735,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,3,EMA,technical,0.013789124085451476,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,14,PSI,technical,0.013321143219945953,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,2,SMA,technical,0.012280221947003156,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,9,MACD,technical,0.011761042712169,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,13,DMI,technical,0.010702096036402509,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,4,WMA,technical,0.01048836816335097,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,15,Oil,macro,0.010337327205343172,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010263033182127401,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,17,Inflation Rate,macro,0.003862752311397344,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,16,Gold,macro,0.003483474761196703,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,10,PPO,technical,0.00196883168318891,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4224,2023-12-05,Hold,Hold,True,11,ROC,technical,0.0013943308833404445,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,6,TripleEMA,technical,0.038577040628297254,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,1,WilliamsR,technical,0.019568640063516794,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,2,SMA,technical,0.018285733333323152,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,13,DMI,technical,0.017235117068048568,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,5,HMA,technical,0.01681779646023642,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,8,CMO,technical,0.01589967593899928,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,3,EMA,technical,0.015082063517183997,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01376074301506378,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012602642262936569,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,15,Oil,macro,0.011966122656667721,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,7,CCI,technical,0.01170291111629922,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,4,WMA,technical,0.011500446434365586,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,0,RSI,technical,0.005167766716476762,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,12,CMFI,technical,0.0047189012591843495,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,14,PSI,technical,0.004598567335233383,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,16,Gold,macro,0.004545361271811999,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,17,Inflation Rate,macro,0.002616016547744948,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,10,PPO,technical,0.002016639414978272,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,11,ROC,technical,0.0009122353620796275,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4284,2024-02-03,Hold,Hold,True,9,MACD,technical,0.0006723885302108102,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,6,TripleEMA,technical,0.05638751944061369,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,7,CCI,technical,0.04701534598643775,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,8,CMO,technical,0.0338725428620819,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,5,HMA,technical,0.03149984031333588,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,3,EMA,technical,0.017469125776551665,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,2,SMA,technical,0.01734519726887811,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,4,WMA,technical,0.017116677010199054,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01673218960640952,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,13,DMI,technical,0.013874415151076392,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,1,WilliamsR,technical,0.01361422830959782,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,14,PSI,technical,0.01290494435816072,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,0,RSI,technical,0.011617572006070987,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009842815611045807,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,12,CMFI,technical,0.009436169577384135,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,15,Oil,macro,0.008850816292397212,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,9,MACD,technical,0.005027362620376152,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,17,Inflation Rate,macro,0.0031933251448208466,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,16,Gold,macro,0.002798253747459967,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,10,PPO,technical,0.0014330827656522161,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4290,2024-02-09,Hold,Hold,True,11,ROC,technical,0.0010601298448818853,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,6,TripleEMA,technical,0.06933910804800689,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,5,HMA,technical,0.03308608597144484,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,4,WMA,technical,0.031711368088872406,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,9,MACD,technical,0.025966118671931326,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,2,SMA,technical,0.02378095002786722,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,8,CMO,technical,0.02087362950842362,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,7,CCI,technical,0.020840715462691152,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,3,EMA,technical,0.020809159020427615,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,1,WilliamsR,technical,0.015558195493304084,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013778626557905228,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,0,RSI,technical,0.013087058707606047,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010115795494175472,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,15,Oil,macro,0.008133110409835354,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,12,CMFI,technical,0.00741443178121699,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,14,PSI,technical,0.006438225346209947,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,13,DMI,technical,0.006047530765317788,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,10,PPO,technical,0.004876385522948112,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,16,Gold,macro,0.004155448835808784,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,17,Inflation Rate,macro,0.0031564155666274018,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4310,2024-02-29,Hold,Hold,True,11,ROC,technical,0.002371084790502209,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,6,TripleEMA,technical,0.04965245690200391,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,2,SMA,technical,0.04591043851105496,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,4,WMA,technical,0.04486113475431921,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,3,EMA,technical,0.038030354934744534,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,5,HMA,technical,0.033629839587956664,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,15,Oil,macro,0.01327668929588981,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,7,CCI,technical,0.013246210651414004,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012302103627007455,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,1,WilliamsR,technical,0.01087147137732245,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,13,DMI,technical,0.01070101237610288,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,8,CMO,technical,0.01009710887883557,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009648808103520423,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,12,CMFI,technical,0.007412325040786527,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,9,MACD,technical,0.006757768668467179,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,14,PSI,technical,0.006743364622525405,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,16,Gold,macro,0.003144330836948939,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,0,RSI,technical,0.0028385563154188277,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,17,Inflation Rate,macro,0.002544723126629833,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,10,PPO,technical,0.001393528890912421,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4345,2024-04-04,Hold,Hold,True,11,ROC,technical,0.0011646568862488493,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,6,TripleEMA,technical,0.06276533583877608,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,5,HMA,technical,0.04440516519825906,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,3,EMA,technical,0.039939141983632,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,4,WMA,technical,0.03954254893469624,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,2,SMA,technical,0.03505830634385347,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,15,Oil,macro,0.01760047933785245,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.016994553454060222,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,1,WilliamsR,technical,0.015538634054246358,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,8,CMO,technical,0.012388928816653788,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009833829003946448,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,12,CMFI,technical,0.007017392088891938,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,7,CCI,technical,0.006940325805044267,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,17,Inflation Rate,macro,0.0066411967418389395,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,16,Gold,macro,0.006443877870333381,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,13,DMI,technical,0.005965830778950476,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,14,PSI,technical,0.005777017849322874,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,0,RSI,technical,0.0024297190853758365,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,10,PPO,technical,0.0022305964775114263,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,11,ROC,technical,0.0008623178018751787,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4450,2024-07-18,Hold,Hold,True,9,MACD,technical,0.0007648463536497729,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,6,TripleEMA,technical,0.05029455507174134,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,3,EMA,technical,0.0388888020766899,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,4,WMA,technical,0.03303061101469211,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,5,HMA,technical,0.03146801365946885,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,2,SMA,technical,0.030212645494611935,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,7,CCI,technical,0.017893210912006907,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,15,Oil,macro,0.014864620461594313,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,8,CMO,technical,0.01485493640648201,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,12,CMFI,technical,0.013158232820569538,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012530583050101995,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,1,WilliamsR,technical,0.01056317544716876,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.00950873339024838,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,13,DMI,technical,0.008956323958409484,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,14,PSI,technical,0.008274154685204848,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,0,RSI,technical,0.007185380238661309,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,16,Gold,macro,0.005433195299701765,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,9,MACD,technical,0.005271443902165629,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,10,PPO,technical,0.003470717625100406,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,17,Inflation Rate,macro,0.0033238567320950096,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4479,2024-08-16,Hold,Hold,True,11,ROC,technical,0.0014299571859737626,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,4,WMA,technical,0.04924061976780649,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,9,MACD,technical,0.0416906455764547,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,2,SMA,technical,0.03891185963875614,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,6,TripleEMA,technical,0.03686221868119901,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,5,HMA,technical,0.027741270250407978,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,3,EMA,technical,0.026457090314943345,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012825368461199105,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,7,CCI,technical,0.01143860972370021,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,13,DMI,technical,0.009516973674544715,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,8,CMO,technical,0.009469710994744673,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.008931250462774187,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,1,WilliamsR,technical,0.008509057459014003,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,15,Oil,macro,0.007115365815116093,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,12,CMFI,technical,0.006105481521808542,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,14,PSI,technical,0.0060982990842603614,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,10,PPO,technical,0.004803984009777195,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,16,Gold,macro,0.004731159086804837,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,0,RSI,technical,0.004658006771933287,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,17,Inflation Rate,macro,0.0028110921986808533,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4587,2024-12-02,Hold,Hold,True,11,ROC,technical,0.0011661663516861153,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,6,TripleEMA,technical,0.05426362538710237,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,5,HMA,technical,0.047541291592642664,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,3,EMA,technical,0.04049288432579488,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,4,WMA,technical,0.03528612479713047,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,2,SMA,technical,0.032101737579796466,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,9,MACD,technical,0.023962766001932322,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01352034895826364,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,1,WilliamsR,technical,0.01325148504693061,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,7,CCI,technical,0.011176848807372153,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009669681401283015,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,8,CMO,technical,0.00781288240395952,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,0,RSI,technical,0.005749617292894982,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,12,CMFI,technical,0.005445854587014765,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,17,Inflation Rate,macro,0.005305961353587918,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,14,PSI,technical,0.004847795078603667,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,16,Gold,macro,0.004685731694553397,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,13,DMI,technical,0.003944238691474311,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,15,Oil,macro,0.003927657649910543,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,10,PPO,technical,0.0023268112810910678,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4750,2025-05-14,Hold,Hold,True,11,ROC,technical,0.0007339906369452365,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,6,TripleEMA,technical,0.050991778436582536,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,5,HMA,technical,0.04367488189600408,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,4,WMA,technical,0.04149407411459834,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,3,EMA,technical,0.033769717352697626,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,2,SMA,technical,0.0327561118741869,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,9,MACD,technical,0.0232161634194199,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.015812173807353246,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012354180216789246,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,7,CCI,technical,0.010370025562588125,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,1,WilliamsR,technical,0.00941221916291397,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,12,CMFI,technical,0.009283476955897641,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,8,CMO,technical,0.0054745508678024635,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,17,Inflation Rate,macro,0.00515200786467176,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,0,RSI,technical,0.004910839653166477,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,16,Gold,macro,0.004238532573799603,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,13,DMI,technical,0.0037713997763148656,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,15,Oil,macro,0.0037675813771784307,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,14,PSI,technical,0.0031384833142510614,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,10,PPO,technical,0.0019970736615505303,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,4760,2025-05-24,Hold,Hold,True,11,ROC,technical,0.0008514583236319595,Crypto,BTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,7,CCI,technical,0.05482731854572194,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,1,WilliamsR,technical,0.021263272000942378,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,17,Inflation Rate,macro,0.020165395369986072,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,16,Gold,macro,0.019614934622950386,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.014617259640363044,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,8,CMO,technical,0.014049736800370739,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012936364929191767,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,14,PSI,technical,0.011833368561929092,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,0,RSI,technical,0.011818907654378564,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,15,Oil,macro,0.007971186278155074,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,13,DMI,technical,0.006636972466367297,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,6,TripleEMA,technical,0.004896566649404121,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,12,CMFI,technical,0.004293155373306945,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,2,SMA,technical,0.0034996514885278886,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,3,EMA,technical,0.0034038655691801976,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,4,WMA,technical,0.003366502930293791,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,10,PPO,technical,0.003131933712575119,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,5,HMA,technical,0.002878602864439017,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,9,MACD,technical,0.0015974906698829727,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2349,2023-01-29,Hold,Hold,True,11,ROC,technical,0.001577964132593479,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,17,Inflation Rate,macro,0.018547228863462807,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,1,WilliamsR,technical,0.013881151808891445,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.013524064570083283,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013022163206915138,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,15,Oil,macro,0.012047936319140718,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,16,Gold,macro,0.009680459925584728,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,14,PSI,technical,0.009141883371921723,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,7,CCI,technical,0.008714871706615668,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,8,CMO,technical,0.007675674284109845,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,13,DMI,technical,0.007342567092564423,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,6,TripleEMA,technical,0.0064691431995015595,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,12,CMFI,technical,0.004445765208038211,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,4,WMA,technical,0.004199410146611626,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,3,EMA,technical,0.0038759368617320433,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,2,SMA,technical,0.0033602181560127065,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,5,HMA,technical,0.0030827808244794142,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,0,RSI,technical,0.0026917068693364855,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,10,PPO,technical,0.0013611830137961079,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,11,ROC,technical,0.0009355835711176042,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2374,2023-02-23,Hold,Hold,True,9,MACD,technical,0.0007169433837589167,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,17,Inflation Rate,macro,0.025571134884376078,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,1,WilliamsR,technical,0.01616217729024356,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012007671365427085,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.01142102411677115,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,7,CCI,technical,0.011035347351571545,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,15,Oil,macro,0.009808918164344505,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,14,PSI,technical,0.00906249465770088,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,8,CMO,technical,0.008240094112989028,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,16,Gold,macro,0.0071124380847322755,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,13,DMI,technical,0.006180339314596495,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,6,TripleEMA,technical,0.00566687565878965,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,0,RSI,technical,0.004532668175670551,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,4,WMA,technical,0.0039424165268428625,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,3,EMA,technical,0.0035083797643892466,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,12,CMFI,technical,0.0031104027553737978,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,2,SMA,technical,0.002989337220788002,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,5,HMA,technical,0.0028397161033353767,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,11,ROC,technical,0.0010853393537217926,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,10,PPO,technical,0.0008470097565805191,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2384,2023-03-05,Hold,Hold,True,9,MACD,technical,0.0004246367384439509,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,17,Inflation Rate,macro,0.02000143532641232,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,14,PSI,technical,0.01574319842038676,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,8,CMO,technical,0.013415903743589298,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,1,WilliamsR,technical,0.013130618368450087,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011015224130824208,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,7,CCI,technical,0.010027761885430664,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.00958758462802507,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,13,DMI,technical,0.008661861963355477,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,16,Gold,macro,0.008254803681109025,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,12,CMFI,technical,0.006509849571739323,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,15,Oil,macro,0.006486624297394883,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,0,RSI,technical,0.006401882215868682,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,6,TripleEMA,technical,0.004370428585389163,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,4,WMA,technical,0.004162712563993409,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,2,SMA,technical,0.004087958977470408,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,10,PPO,technical,0.0039112012193072586,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,3,EMA,technical,0.0037314579316443997,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,11,ROC,technical,0.003396511837490834,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,5,HMA,technical,0.0021322078548109856,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2391,2023-03-12,Hold,Hold,True,9,MACD,technical,0.0013338163094886112,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,1,WilliamsR,technical,0.01436220642644912,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,17,Inflation Rate,macro,0.012906596385437296,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012434444865357363,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.011424468382028864,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,8,CMO,technical,0.010609411433688366,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,15,Oil,macro,0.009505360486218705,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,16,Gold,macro,0.008941000064078252,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,7,CCI,technical,0.008454340170283103,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,6,TripleEMA,technical,0.005714889564842451,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,14,PSI,technical,0.005078176042661653,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,2,SMA,technical,0.0048513767629629004,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,12,CMFI,technical,0.004653983067328227,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,13,DMI,technical,0.004604426912555937,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,4,WMA,technical,0.003845295641804114,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,3,EMA,technical,0.003540824894389516,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,0,RSI,technical,0.002684928101746209,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,5,HMA,technical,0.0026792006729920103,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,11,ROC,technical,0.0021364975851611233,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,10,PPO,technical,0.0020112374838845426,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2398,2023-03-19,Hold,Hold,True,9,MACD,technical,0.000976723422354553,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,12,CMFI,technical,0.01556275228940649,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.015265624376479537,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,17,Inflation Rate,macro,0.015144597701146267,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,1,WilliamsR,technical,0.013379670144058765,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013195659892517142,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,16,Gold,macro,0.009149747205810854,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,8,CMO,technical,0.0091155393718509,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,15,Oil,macro,0.008321807204629295,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,13,DMI,technical,0.008258524062694051,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,7,CCI,technical,0.0070020843739257545,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,6,TripleEMA,technical,0.0057660768943605945,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,14,PSI,technical,0.00559017663126724,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,4,WMA,technical,0.004775368436821736,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,2,SMA,technical,0.0033711430980474686,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,3,EMA,technical,0.0031158478581346572,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,5,HMA,technical,0.002890616924560163,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,0,RSI,technical,0.0025648321956396104,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,11,ROC,technical,0.001710672686840553,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,10,PPO,technical,0.0010073542879126761,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2407,2023-03-28,Hold,Hold,True,9,MACD,technical,0.000402759374571815,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,1,WilliamsR,technical,0.030462902161525564,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,16,Gold,macro,0.024386444571428002,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,17,Inflation Rate,macro,0.012826582323759795,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,8,CMO,technical,0.011784576789068524,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,15,Oil,macro,0.01128149607193336,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.010217147176444997,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009002985380357131,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,13,DMI,technical,0.008001510993926786,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,7,CCI,technical,0.0071216146941878835,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,0,RSI,technical,0.005755979928835586,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,6,TripleEMA,technical,0.005595530526625226,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,14,PSI,technical,0.00546503128916811,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,2,SMA,technical,0.004064672569802497,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,4,WMA,technical,0.003856566289323382,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,3,EMA,technical,0.0035469210317387477,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,5,HMA,technical,0.003079390656785108,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,12,CMFI,technical,0.0029208845593529987,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,11,ROC,technical,0.0012235880029038526,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,10,PPO,technical,0.0012189232045784592,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2436,2023-04-26,Hold,Hold,True,9,MACD,technical,0.0008054096544583445,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,16,Gold,macro,0.023595742613542824,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,1,WilliamsR,technical,0.019343752619170117,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013183278572978453,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,17,Inflation Rate,macro,0.011888617533259094,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010927620402071625,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,15,Oil,macro,0.01037393104052171,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,14,PSI,technical,0.009109844621343654,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,8,CMO,technical,0.009076635874225757,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,13,DMI,technical,0.008836058725137264,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,12,CMFI,technical,0.007235018877690891,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,7,CCI,technical,0.006900414363553864,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,6,TripleEMA,technical,0.005756344525434542,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,0,RSI,technical,0.004843070868810173,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,2,SMA,technical,0.004102085493468621,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,4,WMA,technical,0.00404477478004992,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,3,EMA,technical,0.0034882711188402027,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,5,HMA,technical,0.003246425880934112,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,10,PPO,technical,0.0012720234004518715,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,11,ROC,technical,0.001033044993528165,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2437,2023-04-27,Hold,Hold,True,9,MACD,technical,0.0008965402761532459,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,1,WilliamsR,technical,0.020217834715731443,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,8,CMO,technical,0.01357092341495445,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,16,Gold,macro,0.013281927854404785,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011679580010240897,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.010593903400877024,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,14,PSI,technical,0.010322921234183014,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,0,RSI,technical,0.008662306813130271,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,15,Oil,macro,0.005862138688098639,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,7,CCI,technical,0.0054369533201679586,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,2,SMA,technical,0.004888784259674139,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,6,TripleEMA,technical,0.0041698359500969675,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,17,Inflation Rate,macro,0.004108657837787177,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,12,CMFI,technical,0.003690690899202309,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,3,EMA,technical,0.0036340468264825176,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,13,DMI,technical,0.0035481691957102157,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,4,WMA,technical,0.0035402448324475698,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,5,HMA,technical,0.0030786971154157074,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,10,PPO,technical,0.002333430581347784,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,11,ROC,technical,0.0015020962855487596,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2490,2023-06-19,Hold,Hold,True,9,MACD,technical,0.0012065731427355786,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,15,Oil,macro,0.019771754764951764,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,8,CMO,technical,0.018722489877836777,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,7,CCI,technical,0.01121224430971779,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,1,WilliamsR,technical,0.01117161388101522,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,13,DMI,technical,0.010937749771073868,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.010857456675148569,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009998605190776288,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,12,CMFI,technical,0.008413630593713606,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,0,RSI,technical,0.007524177373852581,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,16,Gold,macro,0.007272751563868951,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,17,Inflation Rate,macro,0.0047996564295317515,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,14,PSI,technical,0.004061840062786359,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,10,PPO,technical,0.0039035462730680594,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,2,SMA,technical,0.0036056358363566686,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,4,WMA,technical,0.003459135389130097,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,3,EMA,technical,0.003315505180944456,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,6,TripleEMA,technical,0.002986521248385543,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,11,ROC,technical,0.0028779177215255912,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,5,HMA,technical,0.0019066991913859964,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2553,2023-08-21,Hold,Hold,True,9,MACD,technical,0.0011198018482900807,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,7,CCI,technical,0.06016386936607887,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,8,CMO,technical,0.04085668361876742,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,1,WilliamsR,technical,0.035235172987449916,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,14,PSI,technical,0.022970102104591206,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,0,RSI,technical,0.020306803350831616,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,12,CMFI,technical,0.017026818210069905,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,18,Purchasing Power of Peso,macro,0.016645933408064195,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,13,DMI,technical,0.015358747242134995,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,19,Reverse Repurchase Rate (RRP),macro,0.01483389444038039,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,15,Oil,macro,0.014676989777944982,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,6,TripleEMA,technical,0.00919687743371469,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,16,Gold,macro,0.008501425106078386,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,2,SMA,technical,0.006353824109828566,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,5,HMA,technical,0.005914834937721025,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,3,EMA,technical,0.005570447476929985,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,4,WMA,technical,0.004539994152582949,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,11,ROC,technical,0.0028480850625783203,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,17,Inflation Rate,macro,0.002829659092822112,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,10,PPO,technical,0.002209431744995527,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2674,2023-12-20,Buy,Buy,True,9,MACD,technical,0.001399870629347788,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,7,CCI,technical,0.03683692591957879,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,1,WilliamsR,technical,0.02905419107992202,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,12,CMFI,technical,0.015033714679884725,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010173214494716375,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.009953732347639743,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,8,CMO,technical,0.007789656287059188,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,14,PSI,technical,0.006452145671937614,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,15,Oil,macro,0.00626787961809896,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,2,SMA,technical,0.0052835007747489724,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,6,TripleEMA,technical,0.00508573546030675,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,16,Gold,macro,0.004952739601139911,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,17,Inflation Rate,macro,0.004089802480302751,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,4,WMA,technical,0.0036962040758226067,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,3,EMA,technical,0.0035614923559478483,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,5,HMA,technical,0.0032542300017667004,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,13,DMI,technical,0.0028874774270207125,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,10,PPO,technical,0.002131385353277437,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,0,RSI,technical,0.0018853283334465231,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,11,ROC,technical,0.0010534165819080954,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2695,2024-01-10,Hold,Hold,True,9,MACD,technical,0.0009363808892885572,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,1,WilliamsR,technical,0.016295722173526882,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,15,Oil,macro,0.014077270496636629,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,14,PSI,technical,0.013125393523660022,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.011058820785547142,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,13,DMI,technical,0.010028826567577198,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009878936392487958,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,7,CCI,technical,0.009614340550615452,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,8,CMO,technical,0.008419607629184611,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,12,CMFI,technical,0.005971924930781825,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,6,TripleEMA,technical,0.004153532940108562,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,3,EMA,technical,0.003518516277108574,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,0,RSI,technical,0.003330837609973969,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,4,WMA,technical,0.0033130049276223874,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,17,Inflation Rate,macro,0.0031833098040806363,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,2,SMA,technical,0.0029919866821728645,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,16,Gold,macro,0.002947456836409401,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,5,HMA,technical,0.002087760768699809,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,10,PPO,technical,0.0009951567757525482,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,11,ROC,technical,0.0009015547919261734,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2738,2024-02-22,Hold,Hold,True,9,MACD,technical,0.0005429993092548102,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,7,CCI,technical,0.018825290552922525,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,1,WilliamsR,technical,0.01754991611232981,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,16,Gold,macro,0.014838431385578587,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,15,Oil,macro,0.013343035971047357,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013172347875661216,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012948189667076804,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,13,DMI,technical,0.009519633190939203,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,8,CMO,technical,0.006710492480488028,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,12,CMFI,technical,0.005309651138668414,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,2,SMA,technical,0.0052304035369161285,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,6,TripleEMA,technical,0.005206604513296043,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,3,EMA,technical,0.00457660089014098,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,14,PSI,technical,0.0038021271026309478,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,4,WMA,technical,0.0037772866468003484,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,17,Inflation Rate,macro,0.002858551001554588,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,5,HMA,technical,0.0024976458043965977,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,10,PPO,technical,0.002239663770524203,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,0,RSI,technical,0.002121469715530111,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,9,MACD,technical,0.0013411403953796253,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2866,2024-06-29,Hold,Hold,True,11,ROC,technical,0.0011806308990344404,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,1,WilliamsR,technical,0.01801574921410065,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,14,PSI,technical,0.015561188287392724,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,15,Oil,macro,0.014882484971894882,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,16,Gold,macro,0.01402632860117592,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,7,CCI,technical,0.01278882646438433,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.012441079897689633,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,8,CMO,technical,0.012316946975624887,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,13,DMI,technical,0.012040666886605322,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,12,CMFI,technical,0.011920376674243015,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010009326550061814,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,6,TripleEMA,technical,0.005098104535136372,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,2,SMA,technical,0.004936647447175346,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,4,WMA,technical,0.0039457772247260435,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,3,EMA,technical,0.003389024984790012,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,17,Inflation Rate,macro,0.003307147317900672,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,0,RSI,technical,0.0031052743468535484,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,5,HMA,technical,0.00245096356702561,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,11,ROC,technical,0.0012281792784051503,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,10,PPO,technical,0.0009216271251716535,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2890,2024-07-23,Hold,Hold,True,9,MACD,technical,0.0005407234553786111,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,1,WilliamsR,technical,0.013133255112916232,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010715509980218484,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,7,CCI,technical,0.010377971905109007,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.008725948249775684,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,15,Oil,macro,0.008687814202858135,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,13,DMI,technical,0.00826113784860354,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,8,CMO,technical,0.007722628520059516,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,14,PSI,technical,0.007179980035289191,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,16,Gold,macro,0.006530927019775845,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,4,WMA,technical,0.004375918763980735,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,2,SMA,technical,0.0043077588750747966,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,6,TripleEMA,technical,0.004002030561241554,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,17,Inflation Rate,macro,0.003921543672913685,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,3,EMA,technical,0.003483280466753058,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,5,HMA,technical,0.0033261281971135757,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,12,CMFI,technical,0.0024652333922858816,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,0,RSI,technical,0.001984178341808729,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,10,PPO,technical,0.0008320636478856613,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,11,ROC,technical,0.0007111382888979279,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,2933,2024-09-04,Hold,Hold,True,9,MACD,technical,0.0005988570112094749,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,1,WilliamsR,technical,0.015728216235584114,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,16,Gold,macro,0.015066079708049074,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013619608199587675,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,7,CCI,technical,0.011838984690257348,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.009882925165584311,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,8,CMO,technical,0.008052891172701493,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,14,PSI,technical,0.0074628219474107025,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,13,DMI,technical,0.007436013914411887,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,6,TripleEMA,technical,0.007155026345503757,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,15,Oil,macro,0.006958876218413934,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,17,Inflation Rate,macro,0.006074951332993806,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,4,WMA,technical,0.00503063906726311,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,3,EMA,technical,0.0037051520888780943,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,2,SMA,technical,0.0036561936329235325,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,12,CMFI,technical,0.0034285124281268507,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,5,HMA,technical,0.003248802725283895,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,0,RSI,technical,0.0031134849330555882,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,11,ROC,technical,0.0012899862293124897,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,10,PPO,technical,0.0012091547416275717,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3108,2025-02-26,Hold,Hold,True,9,MACD,technical,0.0007547104155491979,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,1,WilliamsR,technical,0.01798057840933325,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,8,CMO,technical,0.013395194662734866,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,12,CMFI,technical,0.013356256516999565,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01201064067427069,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011613516014767811,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,16,Gold,macro,0.009659442330303136,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,17,Inflation Rate,macro,0.009222173306625336,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,7,CCI,technical,0.009144724055659026,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,6,TripleEMA,technical,0.007114029943477362,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,0,RSI,technical,0.007039277391049837,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,14,PSI,technical,0.005638714579981751,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,4,WMA,technical,0.004684783179254737,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,2,SMA,technical,0.004630359928705729,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,13,DMI,technical,0.003989384335727664,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,15,Oil,macro,0.00395618982729502,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,10,PPO,technical,0.0037885658886807503,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,11,ROC,technical,0.0033135780351585707,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,5,HMA,technical,0.0031326654552685795,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,3,EMA,technical,0.0030164053458975105,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3183,2025-05-12,Hold,Hold,True,9,MACD,technical,0.0016204615923925303,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,1,WilliamsR,technical,0.017158061970258133,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.013663959415862337,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,13,DMI,technical,0.011796257764217444,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.011542723781894892,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,16,Gold,macro,0.009673140480299481,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,7,CCI,technical,0.009039215132361278,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,8,CMO,technical,0.008237794399610721,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,17,Inflation Rate,macro,0.007062870958179701,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,14,PSI,technical,0.006345638105631224,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,6,TripleEMA,technical,0.005524935771245509,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,4,WMA,technical,0.004522156741586514,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,12,CMFI,technical,0.004389546309539583,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,2,SMA,technical,0.004214283257897478,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,3,EMA,technical,0.003998032772506122,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,15,Oil,macro,0.0034985137775947806,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,5,HMA,technical,0.00291083605698077,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,0,RSI,technical,0.0027258750695182245,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,10,PPO,technical,0.0019594058854636386,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,11,ROC,technical,0.0012624742814296042,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3197,2025-05-26,Hold,Hold,True,9,MACD,technical,0.0006579512075404637,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,16,Gold,macro,0.023059289646334948,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,7,CCI,technical,0.01203382021340076,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.011064658528084692,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,1,WilliamsR,technical,0.011030106694670394,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.010750451232888735,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,8,CMO,technical,0.00978594239713857,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,17,Inflation Rate,macro,0.008494242350570858,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,14,PSI,technical,0.0065716302604414524,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,12,CMFI,technical,0.005991286490461789,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,6,TripleEMA,technical,0.004671060528198723,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,13,DMI,technical,0.004474563272015075,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,2,SMA,technical,0.004399592761183157,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,0,RSI,technical,0.004398332588607445,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,4,WMA,technical,0.004091677293217799,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,3,EMA,technical,0.004070770303951576,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,15,Oil,macro,0.003343453467823565,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,5,HMA,technical,0.002601705330016557,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,10,PPO,technical,0.0012019045643683057,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,11,ROC,technical,0.000987281770176196,Crypto,LTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,3209,2025-06-07,Hold,Hold,True,9,MACD,technical,0.0007667962439427356,Crypto,LTC
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,17,Inflation Rate,macro,0.024265708430903032,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,7,CCI,technical,0.02007856876025471,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01827289257344091,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,16,Gold,macro,0.017281976088997907,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,13,DMI,technical,0.016295879494282416,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.015365628877771088,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,1,WilliamsR,technical,0.014989568639430217,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,15,Oil,macro,0.014821708609815687,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,12,CMFI,technical,0.013649595028255135,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,8,CMO,technical,0.011153623526115552,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,14,PSI,technical,0.005036948329507141,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,6,TripleEMA,technical,0.004681917116977274,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,3,EMA,technical,0.002880675312917447,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,4,WMA,technical,0.002535636052925838,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,2,SMA,technical,0.0024154181912308557,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,5,HMA,technical,0.0023237788351252674,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,10,PPO,technical,0.0020923821663018315,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,0,RSI,technical,0.002081894010370888,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,9,MACD,technical,0.0009709822945296765,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2734,2023-03-10,Hold,Hold,True,11,ROC,technical,0.0008774656445893925,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.022510390781098975,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,8,CMO,technical,0.021272153325844555,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,1,WilliamsR,technical,0.01768585968820844,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,16,Gold,macro,0.017041908921964933,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,15,Oil,macro,0.01589922986458987,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,17,Inflation Rate,macro,0.015682905588619178,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.013835452676721616,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,14,PSI,technical,0.012292331128264777,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,13,DMI,technical,0.010662942711496726,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,7,CCI,technical,0.010282539266336243,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,6,TripleEMA,technical,0.00846877288131509,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,10,PPO,technical,0.006706693454907509,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,0,RSI,technical,0.005142590649847989,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,12,CMFI,technical,0.005141382684814744,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,4,WMA,technical,0.0034697441580419765,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,5,HMA,technical,0.003068910739966668,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,3,EMA,technical,0.0029313802977583236,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,2,SMA,technical,0.002491154659219319,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,9,MACD,technical,0.002359991907314907,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2763,2023-04-08,Hold,Hold,True,11,ROC,technical,0.0016997298091155244,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,16,Gold,macro,0.03161543413589243,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,14,PSI,technical,0.02526979248796124,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,12,CMFI,technical,0.020228414339362642,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,15,Oil,macro,0.019705912902281852,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,8,CMO,technical,0.019229754351545125,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.018893997016130017,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,13,DMI,technical,0.018384273296396712,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.017851254693232475,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,17,Inflation Rate,macro,0.014116351952543483,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,1,WilliamsR,technical,0.008380037490860559,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,7,CCI,technical,0.00823854302871041,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,6,TripleEMA,technical,0.005819744698237627,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,5,HMA,technical,0.0037520954385399817,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,2,SMA,technical,0.003592164904694073,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,0,RSI,technical,0.003474499529511377,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,3,EMA,technical,0.002883749064858421,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,4,WMA,technical,0.002522475337900687,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,10,PPO,technical,0.0009201923210639506,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,11,ROC,technical,0.0007531989716881071,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2810,2023-05-25,Hold,Hold,True,9,MACD,technical,0.0006185277046824922,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,8,CMO,technical,0.04619398787617683,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,7,CCI,technical,0.023967805912252515,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.020711257075890898,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.016148001250985543,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,15,Oil,macro,0.014318997523514555,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,1,WilliamsR,technical,0.013400268300028984,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,17,Inflation Rate,macro,0.010891052684746683,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,6,TripleEMA,technical,0.010826392986655265,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,16,Gold,macro,0.010618569748476147,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,0,RSI,technical,0.008280453461338766,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,10,PPO,technical,0.007931579905925901,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,9,MACD,technical,0.007868037142907269,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,5,HMA,technical,0.007821822036930826,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,12,CMFI,technical,0.007075580873060971,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,11,ROC,technical,0.007012324879178777,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,14,PSI,technical,0.006156879193440545,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,4,WMA,technical,0.006040892611781601,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,13,DMI,technical,0.005242750752222492,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,3,EMA,technical,0.0043099221256852616,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2862,2023-07-16,Hold,Hold,True,2,SMA,technical,0.0037041708797914906,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,15,Oil,macro,0.024393791853799484,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,7,CCI,technical,0.0194420088242623,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.018891938908200245,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,8,CMO,technical,0.015268506132088078,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012968541606096552,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,1,WilliamsR,technical,0.012892023369204253,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,17,Inflation Rate,macro,0.012471222536987625,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,16,Gold,macro,0.010383021239249501,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,12,CMFI,technical,0.00706459664797876,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,14,PSI,technical,0.0068288576498162,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,13,DMI,technical,0.0065321491081704154,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,6,TripleEMA,technical,0.006241747376770945,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,0,RSI,technical,0.00547618603304727,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,3,EMA,technical,0.004353124980116263,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,4,WMA,technical,0.00428278318431694,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,2,SMA,technical,0.0036964477116271156,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,5,HMA,technical,0.003565678422455676,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,10,PPO,technical,0.002079557137039956,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,9,MACD,technical,0.0010762779536889866,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2945,2023-10-07,Hold,Hold,True,11,ROC,technical,0.0008201068842026871,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,7,CCI,technical,0.024251309390820097,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,13,DMI,technical,0.01958086535742041,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,15,Oil,macro,0.019557569338940085,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01777483655314427,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,8,CMO,technical,0.017668916832190008,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,1,WilliamsR,technical,0.017207003961084412,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,14,PSI,technical,0.013425809761974961,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012908614904154092,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,12,CMFI,technical,0.011704116397595499,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,6,TripleEMA,technical,0.007961441727820784,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,16,Gold,macro,0.00761022686274373,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,17,Inflation Rate,macro,0.007084182703692932,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,3,EMA,technical,0.006272015439753887,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,4,WMA,technical,0.005474958633749338,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,0,RSI,technical,0.003955725741798232,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,2,SMA,technical,0.003858353872783482,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,5,HMA,technical,0.0038291208853479474,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,10,PPO,technical,0.0029783419777231757,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,9,MACD,technical,0.0017056188982678578,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,2988,2023-11-19,Hold,Hold,True,11,ROC,technical,0.0009245809174899478,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,7,CCI,technical,0.02147811376125901,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.020735924911787152,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,13,DMI,technical,0.018935070640873165,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,14,PSI,technical,0.018187504080560756,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,1,WilliamsR,technical,0.01658320156711852,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.015453992650145664,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,12,CMFI,technical,0.014955146209103987,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,15,Oil,macro,0.014895113054080866,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,8,CMO,technical,0.01017835521051893,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,6,TripleEMA,technical,0.009417471308552194,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,16,Gold,macro,0.008074786822544412,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,17,Inflation Rate,macro,0.0055261038476601245,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,5,HMA,technical,0.005494941968936473,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,4,WMA,technical,0.00542093253461644,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,2,SMA,technical,0.005148452357389033,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,3,EMA,technical,0.004567131587441509,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,0,RSI,technical,0.0018489901663997443,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,10,PPO,technical,0.0013753602903307182,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,9,MACD,technical,0.000620947806919503,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3023,2023-12-24,Hold,Hold,True,11,ROC,technical,0.0005940909386481508,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,13,DMI,technical,0.02007864526458434,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.020013600639504147,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,7,CCI,technical,0.01930503944549855,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,1,WilliamsR,technical,0.01676892543910071,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.01480951058329083,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,15,Oil,macro,0.014564628893276676,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,8,CMO,technical,0.010923843810451217,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,6,TripleEMA,technical,0.010537468710390385,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,14,PSI,technical,0.009780203364789486,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,16,Gold,macro,0.00975490246200934,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,12,CMFI,technical,0.00917766045895405,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,4,WMA,technical,0.005206448638637085,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,17,Inflation Rate,macro,0.00494559858343564,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,5,HMA,technical,0.004672821855638176,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,3,EMA,technical,0.004259720827394631,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,0,RSI,technical,0.004188412304938538,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,2,SMA,technical,0.003691390903259162,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,10,PPO,technical,0.0014050312718609348,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,9,MACD,technical,0.0007522842301113996,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3032,2024-01-02,Hold,Hold,True,11,ROC,technical,0.0005662848105203011,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,15,Oil,macro,0.02198334797285497,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01929275639122352,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,8,CMO,technical,0.01916781995096244,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,7,CCI,technical,0.018257654053741135,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.01599689241484157,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,1,WilliamsR,technical,0.01407058636104921,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,16,Gold,macro,0.01303197610029656,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,13,DMI,technical,0.010923037718748673,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,14,PSI,technical,0.007880898318217078,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,0,RSI,technical,0.007641334694926627,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,6,TripleEMA,technical,0.007119114678062033,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,12,CMFI,technical,0.005595177883515134,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,3,EMA,technical,0.0048555162667980765,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,17,Inflation Rate,macro,0.004757720467750914,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,2,SMA,technical,0.004168814758304507,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,5,HMA,technical,0.0037562219411483968,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,4,WMA,technical,0.003312152395301382,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,10,PPO,technical,0.003182985737839772,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,9,MACD,technical,0.0013966080210593645,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3048,2024-01-18,Hold,Hold,True,11,ROC,technical,0.0010878042387048481,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,8,CMO,technical,0.023830940799962265,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,7,CCI,technical,0.02147323069657432,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.019055735680740326,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,1,WilliamsR,technical,0.018295103420678062,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.015997662296285853,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,15,Oil,macro,0.013910853577544912,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,16,Gold,macro,0.011127692300942727,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,13,DMI,technical,0.008394805579155219,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,12,CMFI,technical,0.00655163130195433,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,6,TripleEMA,technical,0.0061519911669165595,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,14,PSI,technical,0.0060294149443507195,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,3,EMA,technical,0.0054844441430759614,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,17,Inflation Rate,macro,0.004877705976832658,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,0,RSI,technical,0.004525617627950851,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,4,WMA,technical,0.004167084887740202,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,10,PPO,technical,0.0031483744048273364,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,2,SMA,technical,0.003052754649252165,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,5,HMA,technical,0.00289330314626568,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,9,MACD,technical,0.0013655996892339318,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3051,2024-01-21,Hold,Hold,True,11,ROC,technical,0.0010687694844818906,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,8,CMO,technical,0.028823237903998232,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,1,WilliamsR,technical,0.020348702438059262,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,15,Oil,macro,0.017271370999515055,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.01717440421707579,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.016287275799550117,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,16,Gold,macro,0.0135342484456487,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,14,PSI,technical,0.012468992911453824,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,12,CMFI,technical,0.011552081891568377,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,7,CCI,technical,0.00891885651726625,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,13,DMI,technical,0.007184659523773007,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,6,TripleEMA,technical,0.006272856079158373,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,0,RSI,technical,0.004587163058749866,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,3,EMA,technical,0.004419869746197946,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,17,Inflation Rate,macro,0.004155894713767339,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,4,WMA,technical,0.004062552174582379,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,5,HMA,technical,0.0032220650900853798,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,2,SMA,technical,0.0030060156850595376,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,10,PPO,technical,0.0029997005767654628,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,9,MACD,technical,0.0013608602035674266,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3058,2024-01-28,Hold,Hold,True,11,ROC,technical,0.0009882829184789444,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,1,WilliamsR,technical,0.041651635390007866,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,8,CMO,technical,0.03266814973030705,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,7,CCI,technical,0.02462667184008751,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.02413958781398833,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,15,Oil,macro,0.020860701927449554,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,12,CMFI,technical,0.020216230163350703,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,14,PSI,technical,0.016506230784580113,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.013604182525887154,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,16,Gold,macro,0.010806140484055505,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,6,TripleEMA,technical,0.009824432618916034,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,13,DMI,technical,0.008971006885985844,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,17,Inflation Rate,macro,0.0047659838484833015,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,5,HMA,technical,0.0043256103846943,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,4,WMA,technical,0.0041690467238368,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,3,EMA,technical,0.0033292340449406765,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,2,SMA,technical,0.0032771241989394185,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,10,PPO,technical,0.0022946424167457737,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,0,RSI,technical,0.0021942133673292117,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,9,MACD,technical,0.0009528025915642502,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3073,2024-02-12,Hold,Hold,True,11,ROC,technical,0.0006905563489453925,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.02500838754931465,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,13,DMI,technical,0.019586317287757993,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,15,Oil,macro,0.017538191363564694,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,7,CCI,technical,0.017335838797953328,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,14,PSI,technical,0.012660075904568658,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012451395366224461,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,6,TripleEMA,technical,0.010902655775134917,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,1,WilliamsR,technical,0.010864328924799337,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,12,CMFI,technical,0.010664860394899733,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,8,CMO,technical,0.009558937570545822,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,16,Gold,macro,0.009302369934448506,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,4,WMA,technical,0.007160549776745029,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,17,Inflation Rate,macro,0.005183486490568612,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,3,EMA,technical,0.004772858662181534,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,5,HMA,technical,0.004059947895984806,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,2,SMA,technical,0.003357016608788399,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,0,RSI,technical,0.002572737076843623,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,10,PPO,technical,0.0018812219226674643,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,9,MACD,technical,0.0010618632171826904,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3114,2024-03-24,Hold,Hold,True,11,ROC,technical,0.0008212158543756231,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,15,Oil,macro,0.02303520021960139,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,7,CCI,technical,0.019079830657574348,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.019047994646825828,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,13,DMI,technical,0.015267195402702782,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,1,WilliamsR,technical,0.014487398164783371,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,14,PSI,technical,0.014439082495619005,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,8,CMO,technical,0.013411429691768718,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.012907503155292942,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,16,Gold,macro,0.010335767141077668,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,6,TripleEMA,technical,0.00895901996991597,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,12,CMFI,technical,0.00826961604616372,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,3,EMA,technical,0.006609313981607556,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,2,SMA,technical,0.00498702033655718,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,4,WMA,technical,0.004810247334535234,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,5,HMA,technical,0.004439983754127752,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,17,Inflation Rate,macro,0.003735357521327387,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,0,RSI,technical,0.0016295964083838043,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,10,PPO,technical,0.0012039057516290085,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,9,MACD,technical,0.0008796255759989435,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3122,2024-04-01,Hold,Hold,True,11,ROC,technical,0.0006956217763217865,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,15,Oil,macro,0.02444743807309351,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.02057843411457725,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.017792182881385087,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,12,CMFI,technical,0.016135970360483042,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,8,CMO,technical,0.014665254070132505,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,16,Gold,macro,0.014574035283294507,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,13,DMI,technical,0.01118825892917812,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,1,WilliamsR,technical,0.0109900405514054,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,7,CCI,technical,0.010546438315213891,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,6,TripleEMA,technical,0.008475416188593954,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,14,PSI,technical,0.0064758858265122395,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,17,Inflation Rate,macro,0.006152209138963372,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,3,EMA,technical,0.0046861496550263835,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,5,HMA,technical,0.00456837514648214,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,4,WMA,technical,0.00417423766630236,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,10,PPO,technical,0.0037358194145781453,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,2,SMA,technical,0.0028892647336761002,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,0,RSI,technical,0.0026299103989003924,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,9,MACD,technical,0.0013086870041206567,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3152,2024-05-02,Hold,Hold,True,11,ROC,technical,0.0011911434465218917,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,16,Gold,macro,0.035461974306963386,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,15,Oil,macro,0.025614160927943885,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.024881094275042415,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,7,CCI,technical,0.022028177342144774,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,8,CMO,technical,0.019661661507416283,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,1,WilliamsR,technical,0.018028822985070293,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.01511235627986025,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,14,PSI,technical,0.011236135066428687,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,12,CMFI,technical,0.007632033340632916,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,6,TripleEMA,technical,0.00665122544451151,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,13,DMI,technical,0.006556561440447695,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,17,Inflation Rate,macro,0.006251270370557904,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,0,RSI,technical,0.004748457664936723,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,2,SMA,technical,0.003645223229250405,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,4,WMA,technical,0.0034635368996532635,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,3,EMA,technical,0.00269702200039319,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,5,HMA,technical,0.0025039433676283807,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,10,PPO,technical,0.002342682346352376,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,9,MACD,technical,0.0007414056886318576,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3191,2024-06-10,Hold,Hold,True,11,ROC,technical,0.0006928187722223811,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,15,Oil,macro,0.022338357748230918,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.020907498165615834,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,16,Gold,macro,0.01857159349019639,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,13,DMI,technical,0.016982106429350097,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,8,CMO,technical,0.014897693900275044,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,1,WilliamsR,technical,0.01433756884362083,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.013272865202270622,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,14,PSI,technical,0.01111676709697349,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,7,CCI,technical,0.008603223372483626,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,6,TripleEMA,technical,0.007967461872613057,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,12,CMFI,technical,0.005911647964967415,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,2,SMA,technical,0.005134645069483667,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,4,WMA,technical,0.005109731863740308,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,17,Inflation Rate,macro,0.004729956050869078,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,3,EMA,technical,0.004517349117668346,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,0,RSI,technical,0.003922563228115905,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,5,HMA,technical,0.00366570229671197,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,10,PPO,technical,0.003125163377262652,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,9,MACD,technical,0.0014538632443873213,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3268,2024-08-26,Hold,Hold,True,11,ROC,technical,0.0009180037133774022,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.024238418170716612,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,8,CMO,technical,0.02244632816873491,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,15,Oil,macro,0.02135481875448022,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,7,CCI,technical,0.019827928526501636,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,13,DMI,technical,0.01726397769525647,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,1,WilliamsR,technical,0.016588022687938065,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.016382421996968332,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,16,Gold,macro,0.0152592662605457,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,12,CMFI,technical,0.007950405805604532,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,14,PSI,technical,0.007585710746934637,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,6,TripleEMA,technical,0.006811403942992911,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,3,EMA,technical,0.005830147022788878,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,4,WMA,technical,0.005568425160890911,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,17,Inflation Rate,macro,0.004165101744729327,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,2,SMA,technical,0.0038610751151281876,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,5,HMA,technical,0.0037413098878460007,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,10,PPO,technical,0.0019129447999148396,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,0,RSI,technical,0.0013220536030985387,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,9,MACD,technical,0.0007231412064356846,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3273,2024-08-31,Hold,Hold,True,11,ROC,technical,0.0006735645552907954,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,8,CMO,technical,0.022636988840531558,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.02250839215121232,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,7,CCI,technical,0.021255506912712007,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,16,Gold,macro,0.020911997827352025,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,15,Oil,macro,0.018643818094278685,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,1,WilliamsR,technical,0.017761746092583054,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.0175275789340958,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,13,DMI,technical,0.014678589805043885,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,12,CMFI,technical,0.007243000774178654,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,6,TripleEMA,technical,0.007215572174754925,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,0,RSI,technical,0.006054864916404767,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,14,PSI,technical,0.005727203193237074,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,17,Inflation Rate,macro,0.005012952417746419,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,3,EMA,technical,0.004886495406390167,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,5,HMA,technical,0.004478636739077046,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,2,SMA,technical,0.004328561308648204,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,4,WMA,technical,0.004022210207767785,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,10,PPO,technical,0.0030173746648870293,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,9,MACD,technical,0.0010045554885437014,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3281,2024-09-08,Hold,Hold,True,11,ROC,technical,0.0009562336719682208,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,8,CMO,technical,0.02556812611874193,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,15,Oil,macro,0.02010888415388763,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,18,Purchasing Power of Peso,macro,0.020050647771859074,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,16,Gold,macro,0.018972026591654867,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,1,WilliamsR,technical,0.015214307480619027,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,19,Reverse Repurchase Rate (RRP),macro,0.014787803048966453,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,14,PSI,technical,0.01289466809012083,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,13,DMI,technical,0.009471612096967874,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,7,CCI,technical,0.008183332626504124,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,6,TripleEMA,technical,0.007287515286589041,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,17,Inflation Rate,macro,0.006005524867214262,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,12,CMFI,technical,0.0052395001606782895,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,4,WMA,technical,0.0039928551181219515,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,5,HMA,technical,0.00335962830868084,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,2,SMA,technical,0.0031629509452614003,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,0,RSI,technical,0.0025841338389000156,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,3,EMA,technical,0.0023760649157338774,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,10,PPO,technical,0.0020760702951520215,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,11,ROC,technical,0.0008758911146287574,Crypto,XRP
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,3283,2024-09-10,Hold,Hold,True,9,MACD,technical,0.0006973943125558435,Crypto,XRP

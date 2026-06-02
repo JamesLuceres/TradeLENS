@@ -1,0 +1,24 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Computer-vision trading using technical indicators}}{5}{figure.caption.6}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Proposed Approach}}{14}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Example of a technical–only grayscale image ($15 \times 20$). The vertical axis shows the fifteen technical indicators, and the horizontal axis lists lookback windows from six to twenty–five days.}}{23}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Combined technical and macroeconomic grayscale image ($20 \times 20$). Rows 16–20 contain RRP, Gold, CrudeOil, PPP, and Inflation, aligned to the same set of lookback windows.}}{24}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces SmallCNN\_BN architecture used for both CNN--TIC and CNN--MIC. The network applies three convolutional blocks with batch normalization and ReLU, followed by flattening, a fully connected layer with 128 units, dropout, and a three-unit softmax output.}}{25}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Validation accuracy performance of CNN--TIC and CNN--MIC across selected blue-chip stocks}}{33}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Validation accuracy performance of CNN--TIC and CNN--MIC across selected penny stocks}}{35}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Validation accuracy performance of CNN--TIC and CNN--MIC across selected cryptocurrency assets}}{36}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Test accuracy performance of CNN--TIC and CNN--MIC across selected blue-chip stocks}}{39}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Final equity performance of CNN--TIC and CNN--MIC across selected blue-chip stocks}}{40}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Test accuracy performance of CNN--TIC and CNN--MIC across selected penny stocks}}{41}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Final equity performance of CNN--TIC and CNN--MIC across selected penny stocks}}{42}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Test accuracy performance of CNN--TIC and CNN--MIC across selected cryptocurrency assets}}{44}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Final equity performance of CNN--TIC and CNN--MIC across selected cryptocurrency assets}}{45}{figure.4.9}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Predicted-class SHAP row importance for Ayala Corporation under BCV-PU. }}{50}{figure.caption.17}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Predicted-class SHAP row importance for selected blue-chip stocks under BCV-PU}}{59}{figure.A.1}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Predicted-class SHAP row importance for selected penny stocks under BCV-PU}}{60}{figure.A.2}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Predicted-class SHAP row importance for selected cryptocurrency assets under BCV-PU}}{60}{figure.A.3}%

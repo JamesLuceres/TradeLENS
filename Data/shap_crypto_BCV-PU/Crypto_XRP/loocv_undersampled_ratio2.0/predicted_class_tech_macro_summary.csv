@@ -1,0 +1,2 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.12188413179285962,0.07802298033949569,0.3902961705926597,Crypto,XRP

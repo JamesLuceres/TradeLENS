@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.007330292308688514,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.022993873244831774,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.01181203230033134,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.009635083577250044,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.019285548939187717,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.013821606809196963,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.015889148335882054,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.01635892860050262,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.00988522063759774,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.0015772104178455493,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.00607237868401171,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.00399688032944141,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.01180296882506809,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.005728846305964907,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.004302746395264875,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.005875432195834946,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.006444496474668994,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.007855210960191244,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.00977803749784016,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.009086871064847627,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.0019158864620249009,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.0062620116740163215,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.006238492039547197,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.005967862658867488,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.007136983385389611,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.005804008808436265,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.009381269832501857,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.004987569095178515,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.00444714458890303,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.0007616516011580643,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.0027501130404095873,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.002287324873880152,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.007104616520350078,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.004112705953259592,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.0030933716481786177,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.003911656775098891,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.004166474972180368,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.004900857584625556,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.006641416950074018,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.005446582906624543,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.008994050716989933,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.02544255069955397,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.01264370355040228,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.01040101716791469,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.021970770161024118,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.014009744367731402,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.017891886031006835,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.01776469881892808,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.01088138612865123,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.0017669350411361503,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.008083399607990033,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.0037529011378614995,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.011424936827907003,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.00537189689650404,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.0039116414210479886,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.005093472971689722,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.006335371141904034,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.007866044718321061,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.010158551475528837,PennyStocks,PHR
+PennyStocks:PHR,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.012091987030194106,PennyStocks,PHR

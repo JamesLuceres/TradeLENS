@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,view,technical_total,macro_total,macro_share,group,symbol
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.22791040300614893,0.04849778706307233,0.17545712755807624,Crypto,BTC
+Crypto:LTC,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.10076553550832841,0.05501454372679468,0.3531551915810733,Crypto,LTC
+Crypto:XRP,BCV-PU,loocv_undersampled_ratio2.0,predicted_class,0.12188413179285962,0.07802298033949569,0.3902961705926597,Crypto,XRP

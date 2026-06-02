@@ -1,0 +1,23 @@
+{
+  "name": "quasar-stock-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "refresh-data": "node scripts/generate-data.mjs"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.17",
+    "quasar": "^2.18.5",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.10.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass-embedded": "^1.86.3",
+    "vite": "^6.2.0"
+  }
+}

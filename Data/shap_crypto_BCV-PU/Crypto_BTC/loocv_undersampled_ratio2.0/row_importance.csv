@@ -1,0 +1,61 @@
+asset,scheme,scheme_id,class_name,row_index,row_name,row_type,mean_abs_shap,group,symbol
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0,RSI,technical,0.018867608325299445,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,1,WilliamsR,technical,0.031010753198279423,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,2,SMA,technical,0.028852908610870143,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,3,EMA,technical,0.03127575711355916,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,4,WMA,technical,0.02968761540549167,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,5,HMA,technical,0.03475220234478001,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,6,TripleEMA,technical,0.08295392208390694,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,7,CCI,technical,0.04254810136300875,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,8,CMO,technical,0.029939548590578513,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,9,MACD,technical,0.016031758572523244,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,10,PPO,technical,0.0035877148906388358,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,11,ROC,technical,0.0012639847266041214,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,12,CMFI,technical,0.010422370917684703,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,13,DMI,technical,0.013091051867813803,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,14,PSI,technical,0.012640532578869854,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,15,Oil,macro,0.015599920092068374,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,16,Gold,macro,0.005439923588058377,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,17,Inflation Rate,macro,0.010226347508776143,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,18,Purchasing Power of Peso,macro,0.02241884328999049,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Sell,19,Reverse Repurchase Rate (RRP),macro,0.021964432250824756,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0,RSI,technical,0.007976050377455976,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,1,WilliamsR,technical,0.01483095963595133,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,2,SMA,technical,0.018518551014285546,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,3,EMA,technical,0.019168710221465515,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,4,WMA,technical,0.019643280947420863,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,5,HMA,technical,0.023212567618952563,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,6,TripleEMA,technical,0.04000682108625369,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,7,CCI,technical,0.021288075389693406,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,8,CMO,technical,0.021232413171014743,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,9,MACD,technical,0.009642256793413254,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,10,PPO,technical,0.002514700754769592,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,11,ROC,technical,0.001184604641690612,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,12,CMFI,technical,0.009419771291777578,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,13,DMI,technical,0.0113961841120431,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,14,PSI,technical,0.007875455949961179,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,15,Oil,macro,0.011900217975380656,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,16,Gold,macro,0.004358623766920573,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,17,Inflation Rate,macro,0.0068542937536540186,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,18,Purchasing Power of Peso,macro,0.014440353633376615,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Hold,19,Reverse Repurchase Rate (RRP),macro,0.010944297933740472,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0,RSI,technical,0.02212664312246488,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,1,WilliamsR,technical,0.03667418001366059,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,2,SMA,technical,0.03683288797325076,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,3,EMA,technical,0.03435945709738007,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,4,WMA,technical,0.02733404587464065,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,5,HMA,technical,0.04296648252804517,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,6,TripleEMA,technical,0.09838591421619639,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,7,CCI,technical,0.0530505994529085,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,8,CMO,technical,0.035956356565920944,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,9,MACD,technical,0.01766054188973243,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,10,PPO,technical,0.003866167384207983,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,11,ROC,technical,0.001323327133063401,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,12,CMFI,technical,0.010095569879691768,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,13,DMI,technical,0.011946572807688086,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,14,PSI,technical,0.012080641661686969,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,15,Oil,macro,0.016781711071707832,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,16,Gold,macro,0.006073261033679955,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,17,Inflation Rate,macro,0.00928570741267322,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,18,Purchasing Power of Peso,macro,0.023437472384412107,Crypto,BTC
+Crypto:BTC,BCV-PU,loocv_undersampled_ratio2.0,Buy,19,Reverse Repurchase Rate (RRP),macro,0.01785651020540172,Crypto,BTC

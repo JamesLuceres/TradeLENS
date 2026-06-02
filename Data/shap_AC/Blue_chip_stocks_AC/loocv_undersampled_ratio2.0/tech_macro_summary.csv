@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.21929124871601932,0.05609899754473929,0.20370727833120447,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.07530983534350312,0.04641829652024129,0.38132760118424647,Blue chip stocks,AC
+Blue chip stocks:AC,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.20089977090856226,0.055080918161571055,0.21517606801378694,Blue chip stocks,AC

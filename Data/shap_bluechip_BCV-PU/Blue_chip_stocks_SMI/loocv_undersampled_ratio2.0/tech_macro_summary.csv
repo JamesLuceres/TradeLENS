@@ -1,0 +1,4 @@
+asset,scheme,scheme_id,class_name,technical_total,macro_total,macro_share,group,symbol
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,Sell,0.14494779093725121,0.03720843064232866,0.20426659226719385,Blue chip stocks,SMI
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,Hold,0.0652569919203107,0.027491197560283925,0.29640683785030447,Blue chip stocks,SMI
+Blue chip stocks:SMI,BCV-PU,loocv_undersampled_ratio2.0,Buy,0.1684877093223215,0.033774108686720296,0.16698212751756478,Blue chip stocks,SMI
